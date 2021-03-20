@@ -1,13 +1,9 @@
 # GitHub520
-<p align="center">
-  <img src="https://vip1.loli.net/2020/05/19/fLSBE29NxoFtOcd.gif"/>
-  <br><strong><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">HelloGitHub</a></strong> 分享 GitHub 上有趣、入门级的开源项目。<br>兴趣是最好的老师，这里能够帮你找到编程的兴趣！
-</p>
 
 ## 一、介绍
 对 GitHub 说"爱"太难了：访问慢、图片加载不出来。
 
-*注：* 本项目还处于测试阶段，仅在本机测试通过，如有问题欢迎提 [issues](https://github.com/521xueweihan/GitHub520/issues/new)
+*注：* 本项目还处于测试阶段，仅在本机测试通过，如有问题欢迎提 [issues](https://github.com/qinyihao/GitHub520/issues/new)
 
 ---
 
@@ -54,13 +50,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-03-20T23:53:45+08:00
+# Update time: 2021-03-20T23:57:22+08:00
 # Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-20T23:53:45+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-20T23:57:22+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
