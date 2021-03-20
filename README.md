@@ -114,7 +114,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - 名称: 随意
 
-- URL: `https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts`（和上面 SwitchHosts 使用的一样）
+- URL: `https://cdn.jsdelivr.net/gh/qinyihao/GitHub520@main/hosts`（和上面 SwitchHosts 使用的一样）
 
 如图：
 
