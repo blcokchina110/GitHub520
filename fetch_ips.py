@@ -55,7 +55,7 @@ HOSTS_TEMPLATE = """# GitHub520 Host Start
 {content}
 
 # Update time: {update_time}
-# Star me GitHub url: https://github.com/521xueweihan/GitHub520
+# Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End\n"""
 
 
