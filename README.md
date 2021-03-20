@@ -98,7 +98,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - Type: `Remote`
 
-- URL: `https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts`
+- URL: `https://cdn.jsdelivr.net/gh/qinyihao/GitHub520@main/hosts`
 
 - Auto Refresh: 最好选 `1 hour`
 
