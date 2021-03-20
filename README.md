@@ -54,13 +54,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-03-20T16:23:57+08:00
+# Update time: 2021-03-20T16:25:14+08:00
 # Star me GitHub url: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-20T16:23:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-03-20T16:25:14+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
@@ -98,7 +98,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - Type: `Remote`
 
-- URL: `https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts`
+- URL: `https://cdn.jsdelivr.net/gh/qinyihao/GitHub520@main/hosts`
 
 - Auto Refresh: 最好选 `1 hour`
 
@@ -114,7 +114,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 - 名称: 随意
 
-- URL: `https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts`（和上面 SwitchHosts 使用的一样）
+- URL: `https://cdn.jsdelivr.net/gh/qinyihao/GitHub520@main/hosts`（和上面 SwitchHosts 使用的一样）
 
 如图：
 
