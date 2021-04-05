@@ -42,7 +42,7 @@
 140.82.114.10                 codeload.github.com
 52.217.201.209                github-cloud.s3.amazonaws.com
 52.217.105.44                 github-com.s3.amazonaws.com
-52.216.8.19                   github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.177.211                github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.71.60                  github-production-user-asset-6210df.s3.amazonaws.com
 52.217.13.92                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
@@ -50,13 +50,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-04-06T02:39:00+08:00
+# Update time: 2021-04-06T02:56:25+08:00
 # Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-06T02:39:00+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-04-06T02:56:25+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
