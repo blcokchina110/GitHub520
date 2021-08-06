@@ -19,7 +19,7 @@
 ```bash
 # GitHub520 Host Start
 185.199.108.154               github.githubassets.com
-140.82.113.21                 central.github.com
+140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
 185.199.108.133               camo.githubusercontent.com
@@ -50,13 +50,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-08-06T21:42:57+08:00
+# Update time: 2021-08-06T21:49:18+08:00
 # Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-08-06T21:42:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-08-06T21:49:18+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
