@@ -18,11 +18,9 @@
 ### 2.1 复制下面的内容
 ```bash
 # GitHub520 Host Start
-185.199.108.154               github.githubassets.com
 140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.108.153               assets-cdn.github.com
-185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
 140.82.113.3                  gist.github.com
@@ -34,7 +32,6 @@
 185.199.108.133               favicons.githubusercontent.com
 185.199.108.133               avatars5.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
@@ -50,13 +47,13 @@
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2021-11-09T12:58:57+08:00
+# Update time: 2021-11-09T13:14:02+08:00
 # Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2021-11-09T12:58:57+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2021-11-09T13:14:02+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
