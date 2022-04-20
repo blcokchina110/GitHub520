@@ -25,7 +25,7 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.108.133               github.map.fastly.net
 199.232.69.194                github.global.ssl.fastly.net
-140.82.113.3                  gist.github.com
+140.82.112.4                  gist.github.com
 185.199.108.153               github.io
 140.82.114.3                  github.com
 140.82.113.5                  api.github.com
@@ -39,24 +39,24 @@
 185.199.108.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
+140.82.114.9                  codeload.github.com
 52.217.109.132                github-cloud.s3.amazonaws.com
 54.231.134.57                 github-com.s3.amazonaws.com
 52.217.106.212                github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.228.121                github-production-user-asset-6210df.s3.amazonaws.com
-52.216.100.243                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.248.12                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 64.71.144.211                 github.community
 185.199.108.133               media.githubusercontent.com
 
 
-# Update time: 2022-04-20T19:15:59+08:00
+# Update time: 2022-04-20T20:35:48+08:00
 # Star my GitHub repo: https://github.com/qinyihao/GitHub520
 # GitHub520 Host End
 
 ```
 
-上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-20T19:15:59+08:00（内容无变动不会更新）
+上面内容会自动定时更新，保证最新有效。数据更新时间：2022-04-20T20:35:48+08:00（内容无变动不会更新）
 
 ### 2.1 手动方式
 #### 2.1.1 修改 hosts 文件
