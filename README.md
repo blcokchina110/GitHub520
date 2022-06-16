@@ -78,7 +78,7 @@ hosts 文件在每个系统的位置不一，详情如下：
 
 1. Windows：在 CMD 窗口输入：`ipconfig /flushdns`
 
-2. Linux 命令：`sudo rcnscd restart`
+2. Linux(centos) 命令：  yum install -i nscd && service nscd start
 
 3. Mac 命令：`sudo killall -HUP mDNSResponder`
 
